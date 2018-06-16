@@ -585,10 +585,10 @@ function CMain(c) {
         s_oSpriteLibrary.addSprite("but_p2", "./sprites/but_p2.png");
         s_oSpriteLibrary.addSprite("but_p3", "./sprites/but_p3.png");
         s_oSpriteLibrary.addSprite("but_p4", "./sprites/but_p4.png");
-        s_oSpriteLibrary.addSprite("but_red", "./sprites/_oButRed.png");
-        s_oSpriteLibrary.addSprite("but_green", "./sprites/_oButGreen.png");
-        s_oSpriteLibrary.addSprite("but_blue", "./sprites/_oButBlue.png");
-        s_oSpriteLibrary.addSprite("but_yellow", "./sprites/_oButYellow.png");
+        s_oSpriteLibrary.addSprite("but_red", "./sprites/oButRed.png");
+        s_oSpriteLibrary.addSprite("but_green", "./sprites/oButGreen.png");
+        s_oSpriteLibrary.addSprite("but_blue", "./sprites/oButBlue.png");
+        s_oSpriteLibrary.addSprite("but_yellow", "./sprites/oButYellow.png");
         s_oSpriteLibrary.addSprite("stop_turn", "./sprites/stop_turn.png");
         s_oSpriteLibrary.addSprite("bg_menu", "./sprites/bg_menu.jpg");
         s_oSpriteLibrary.addSprite("bg_game", "./sprites/bg_game.jpg");
